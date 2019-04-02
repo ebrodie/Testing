@@ -1,2 +1,2 @@
 # Testing
-POC tests
+DevOps -> Jenkins -> ECR -> ECS deployment.
